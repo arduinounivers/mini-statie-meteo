@@ -4,8 +4,8 @@
 #include "DHT.h"
 #include <Adafruit_BMP085.h>
 
-#define ssid      "atlas"       // WiFi SSID
-#define password  "tully123"  // WiFi password
+#define ssid      "********"  // WiFi SSID
+#define password  "********"  // WiFi password
 #define DHTTYPE   DHT22       // DHT type (DHT11, DHT22)
 #define DHTPIN    D4          // Broche du DHT / DHT Pin
 #define LEDPIN    D3          // Led
